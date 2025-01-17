@@ -1,0 +1,16 @@
+{
+    "block.gtceu.star_forge":"Forge d'étoile",
+    "block.gtceu.micro_universe_orb":"Orbe d'Univers Microscopique",
+    "block.gtceu.mega_fusion_reactor":"Réacteur à Méga Fusion",
+    "gtceu.star_forge":"Forge d'étoile",
+    "gtceu.micro_universe_reactor":"Réacteur pour Univers Microscopique",
+    "gtceu.micro_universe_collector":"Collecteur de Micro Univers",
+    "gtceu.mega_fusion_reactor":"Réacteur à Méga Fusion",
+    "material.inert_nether_essence":"Essence d'étoile du Nether Inerte",
+    "material.trinaquadalloy": "Trinaquadalloy",
+    "material.fluorite": "Fluor",
+    "material.dolomite": "Dolomite",
+    "material.star_matter": "Matière d'étoile",
+	"block.gtceu.advanced_large_chemical_reactor": "Réacteur Chimique Large Avancé",
+	"material.nitinol": "Alliage Nickel-Titane"
+}
